@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### I like to code things from scratch and enjoy bringing ideas to life in the browser.
+
+### I am an experienced Frontend Engineer with a demonstrated history of working in the computer software industry. Skilled in HTML, CSS, JS, SCSS, ReactJS, VueJS, Github. Strong engineering professional with a Bachelor's degree focused in Computer Science Engineering from Chitkara University.
+
 <!--
 **AsheeshKumar34/AsheeshKumar34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
